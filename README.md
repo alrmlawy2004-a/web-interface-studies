@@ -1,19 +1,15 @@
 # Web Interface Studies
 
-I practice HTML and CSS through five independent visual studies.
+This collection provides an index to my independent projects and retains their source copies.
 
-| Study | Entry point |
+| Project | Source |
 | --- | --- |
-| Product Landing Page | [Open files](product-landing-page) |
-| Cinematic Landing Page | [Open files](cinematic-landing-page) |
-| Game Store Catalog | [Open files](game-store-catalog) |
-| Creative Workspace | [Open files](creative-workspace) |
-| Profile Card Layout | [Open files](profile-card-layout) |
+| Product Landing Page | [Open project](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/web-interfaces/product-landing-page) |
+| Cinematic Landing Page | [Open project](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/web-interfaces/cinematic-landing-page) |
+| Game Store Catalog | [Open project](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/web-interfaces/game-store-catalog) |
+| Creative Workspace | [Open project](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/web-interfaces/creative-workspace) |
+| Profile Card Layout | [Open project](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/web-interfaces/profile-card-layout) |
 
-## Run
+[Explore my portfolio](https://alrmlawy2004-a.github.io/)
 
-Open the chosen `index.html`, or run `python -m http.server 8000` in this directory and browse to that study's folder.
-
-## Scope
-
-These are static visual studies, with no checkout, backend or live inventory. Some links are visual placeholders. Original images are included as supplied; third-party imagery and brand references belong to their respective owners.
+Read each project guide for setup and limitations.
